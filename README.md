@@ -6,3 +6,19 @@
  
  Given the range of languages involved, this repository makes extensive use of NLP methods built on BERT and other deep learning approaches. 
  
+## Motivation
+
+### Installations
+
+
+```pip install -r requirements.txt```
+
+### How to Interact With the Project
+
+
+### Licensing, Authors, Acknowledgements, etc.
+
+### Data sets:
+
+
+### Key Findings:
