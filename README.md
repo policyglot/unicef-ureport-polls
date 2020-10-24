@@ -16,8 +16,6 @@
 ### How to Interact With the Project
 
 
-### Licensing, Authors, Acknowledgements, etc.
-
 ### Data sets:
 
 
