@@ -14,9 +14,10 @@
 ```pip install -r requirements.txt```
 
 ### How to Interact With the Project
+This notebook consists of two sections. The first experiments with a tiny percentage (1%) of the full dataset to understand the required approaches to building visualizations. The second section then conducts similar analyses for the full dataset (1 GB>) in PySpark. Finally, results are visualized using Plotly and Leaflet.js
 
 
 ### Data sets:
-
+Freely available on the [U-Report website].(https://ureport.in/)
 
 ### Key Findings:
