@@ -1,0 +1,6 @@
+googletrans
+spacy
+gensim
+tqdm
+pandas 
+numpy
