@@ -16,6 +16,7 @@ Given the range of languages involved, this repository makes extensive use of NL
 The same code can be applied for data downloaded more recently from the U-Report servers. 
 
 ### Licensing, Authors, Acknowledgements, etc.
+Special thanks to Christopher Brooks and Hira ur-Rahman at the UNICEF Innovation Office in New York for supporting this project in its initial stages. 
 
 ### Data sets:
 Freely available on the [U-Report website].(https://ureport.in/)

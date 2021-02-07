@@ -1,6 +1,6 @@
-googletrans
 spacy
 gensim
 tqdm
 pandas 
 numpy
+googletrans==4.0.0-rc1
